@@ -1,6 +1,6 @@
 # Accessible Planning Poker
 
-A Rect App for Scrum Teams.
+A Rect App for SCRUM Teams.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
