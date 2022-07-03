@@ -4,7 +4,7 @@
 
 [![pages-build-deployment](https://github.com/tpoth/accessible-planning-poker/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tpoth/accessible-planning-poker/actions/workflows/pages/pages-build-deployment)
 
-As a Rect App for Scrum Teams.
+Rect App for Scrum Teams to play some rounds Planning Poker.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
