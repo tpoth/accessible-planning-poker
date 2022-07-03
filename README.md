@@ -1,5 +1,7 @@
 # Accessible Planning Poker
 
+[![CI/CD](https://github.com/tpoth/accessible-planning-poker/actions/workflows/cicd.yml/badge.svg)](https://github.com/tpoth/accessible-planning-poker/actions/workflows/cicd.yml)
+
 As a Rect App for Scrum Teams.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
