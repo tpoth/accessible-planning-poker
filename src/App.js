@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Rect App for Scrum Teams to play some rounds Planning Poker.
+          React App for Scrum Teams to play some rounds Planning Poker.
         </a>
       </header>
     </div>
